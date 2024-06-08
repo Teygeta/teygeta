@@ -3,7 +3,7 @@
 ## 🧰 Toolbox
 
 - Nuxt.js
-- Tailwind CSS / Shadcn
+- Tailwind CSS
 - TypeScript
 - Prisma
 
