@@ -3,8 +3,10 @@
 ## 🧰 Toolbox
 
 - Nuxt.js
-- Tailwind CSS
-- TypeScript
+- Vue
+- Tailwind
+- Stripe
+- Sidebase
 - Prisma
 
 ## 📊 Statistics
