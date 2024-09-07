@@ -6,7 +6,7 @@
 - Vue
 - Tailwind
 - Stripe
-- Sidebase
+- Lucia
 - Prisma
 
 ## 📊 Statistics
