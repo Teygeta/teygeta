@@ -7,7 +7,7 @@
 - Tailwind
 - Stripe
 - Lucia
-- Prisma
+- Drizzle
 
 ## 📊 Statistics
 
