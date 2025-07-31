@@ -1,14 +1,7 @@
 # Hi there 👋
 
-## 🧰 Toolbox
+I am a Web Dev, you already know what I use but my favorite is VueJS.
 
-- Nuxt.js
-- Vue
-- Tailwind
-- Stripe
-- Lucia
-- Drizzle
+Computer Science student at [OSSU](https://github.com/ossu/computer-science).
 
-## 📊 Statistics
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teygeta&theme=vue-dark&hide_border=true&border_radius=5.4)](https://git.io/streak-stats)
+I'm starting programming seriously, and I don't mean that I install Vue and create a NodeJS server to run SaaS.
